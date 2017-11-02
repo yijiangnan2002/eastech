@@ -9,6 +9,7 @@ void Learn_IR_Key_Process(void)
           	{
           	playkeyy=keynokey;
 	   		g_ucKeyCode=(System_Key_Type)IR_key_convert_Multi_Ir();
+			(System_Key_Type);
           	}
    	}
 }

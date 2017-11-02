@@ -3,6 +3,7 @@ void Learn_IR_Key_Process(void)
 {
    	if (g_fgIrNewKey_multi_ir)
    	{
+   	//add 1
 	   	g_fgIrNewKey_multi_ir = 0;
 	      if (g_ucKeyCode==_KEY_NOKEY)
           	{
